@@ -1,0 +1,4 @@
+{
+  "recommendations": ["adobe.extendscript-debug"],
+  "unwantedRecommendations": ["eg2.tslint"]
+}
